@@ -22,7 +22,7 @@ body {
 }
 .coconut{
     flex: 1;
-    background-color: rgba(69, 190, 113, 0.875);
+    background-color: rgb(54, 167, 130);
     color: white;
     height: 300px;
     width: 300px;
